@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94762718795']
-global.premium = ['94762718795']
-global.ownernomer = '94762718795'
-global.ownername = '🐦kawinda shehan'
-global.botname = 'kawinda-md'
+global.owner = ['94741388320']
+global.premium = ['94741388320']
+global.ownernomer = '94741388320'
+global.ownername = '🐦kawinda shehan᳀ʀᴱ̶ꪶɀꪮᴺ̶|ඩෝප් ⃢ශර්ලොක්🇦🇱➋'
+global.botname = 'kawinda-md🤫'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
