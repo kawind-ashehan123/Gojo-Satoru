@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['94741388320']
-global.premium = ['94762718795']
+global.premium = ['94741388320']
 global.ownernomer = '94741388320'
 global.ownername = '🐦kawinda shehan'
 global.botname = 'Gojo-Satoru'
